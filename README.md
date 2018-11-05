@@ -1,6 +1,6 @@
 # Turo Growth Challenge
 
-# #Turo Analysis
+# Turo Analysis
 Here at Turo we pride ourselves on being data-driven marketers. 
 We study our customer data to understand their behaviors and determine the best ways to fuel growth
 

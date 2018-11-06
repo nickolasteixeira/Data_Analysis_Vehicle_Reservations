@@ -7,12 +7,12 @@ We study our customer data to understand their behaviors and determine the best 
 
 
 ### Given two data sets (vehicles.csv and reservations.csv) find:
-1. Which factors seem to be most important in driving total number of reservations for our vehicles
+1. Which factors seem to be most important in driving total number of reservations for our vehicles?
 
 ### General Hypothesis:
 From a practical standpoint, it's my assumption that the price of a vehicles will be the most important factor driving the total number of reservations for a vehicle, followed by the number of images, and year of car. I believe that people want to get as much value as possible, while paying the least amount of money.
 
-Let's analyse the datasets and come up with our own conclusion.  
+Let's analyze the datasets and come up with our own conclusion.  
 
 ### To run analysis, run docker container
 
@@ -20,12 +20,12 @@ Let's analyse the datasets and come up with our own conclusion.
 1. [Install Docker](https://docs.docker.com/install/)
 
 
-2. In your terminal in the directory for this repository, run:
+2. In your terminal, in the directory for this repository, run:
 `docker-compose up`
 - This will output something like this in your terminal:
-tarting datascience-notebook-container ... done
-Attaching to datascience-notebook-container
 ```
+Starting datascience-notebook-container ... done
+Attaching to datascience-notebook-container
 datascience-notebook-container | /usr/local/bin/start-notebook.sh: ignoring /usr/local/bin/start-notebook.d/*
 datascience-notebook-container |
 datascience-notebook-container | Container must be run with group root to update passwd file

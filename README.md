@@ -16,6 +16,13 @@ Let's analyze the datasets and come up with our own conclusion.
 
 ### To run analysis, run docker container
 
+### Environment
+- Linux Ubuntu 14.04
+- Numpy Version -> 1.13.3
+- Panda Version -> 0.23.4
+- Seaborn Version -> 0.9.0
+- Python 3
+
 ### Requirements
 1. [Install Docker](https://docs.docker.com/install/) or run the `./install_docker.sh` script
 

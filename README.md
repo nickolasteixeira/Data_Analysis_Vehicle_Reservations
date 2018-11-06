@@ -17,8 +17,7 @@ Let's analyze the datasets and come up with our own conclusion.
 ### To run analysis, run docker container
 
 ### Requirements
-1. [Install Docker](https://docs.docker.com/install/)
-
+1. [Install Docker](https://docs.docker.com/install/) or run the `./install_docker.sh` script
 
 2. In your terminal, in the directory for this repository, run:
 `docker-compose up`

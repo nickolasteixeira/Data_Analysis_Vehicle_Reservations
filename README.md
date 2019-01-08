@@ -1,10 +1,4 @@
-# Turo Growth Challenge
-
-Here at Turo we pride ourselves on being data-driven marketers. 
-We study our customer data to understand their behaviors and determine the best ways to fuel growth
-
-[Link to presentation](https://docs.google.com/presentation/d/1t9SDMGRa9Db1IY94bqjaCoiaMy6daHZz6xYriuldk2c/edit?usp=sharing) on Testing a new acquisition channel.
-
+# Data Analysis
 
 ### Given two data sets (vehicles.csv and reservations.csv) find:
 1. Which factors seem to be most important in driving total number of reservations for our vehicles?

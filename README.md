@@ -51,4 +51,4 @@ datascience-notebook-container |         http://localhost:8888/?token=dfdfa78ab2
 4. Your `localhost:8888` should display a Jupyter notebook
 - Click on the `Turo_analysis.ipynb` file
 
-5. Read the Turo Analysis File
+5. Read the [Turo Analysis File](Turo_analysis.ipynb)

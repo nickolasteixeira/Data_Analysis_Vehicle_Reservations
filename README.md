@@ -17,7 +17,11 @@ Let's analyze the datasets and come up with our own conclusion.
 - Seaborn Version -> 0.9.0
 - Python 3
 
-### Requirements
+### TL;DR
+
+Read the [Turo Analysis File](Turo_analysis.ipynb)
+
+### Full Installation Requirements
 1. [Install Docker](https://docs.docker.com/install/) or run the `./install_docker.sh` script
 
 2. In your terminal, in the directory for this repository, run:
